@@ -11,3 +11,6 @@
 ## For production run
 - npt_prod.mdp
 - nvt_prod.mdp
+- cf_smd.mdp
+- cv_smd.mdp, cv_smd_inv.mdp
+- ramd.mdp 
